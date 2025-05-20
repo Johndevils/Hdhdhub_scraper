@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from telegram import Bot
 
 # === Config ===
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7723643158:AAExHhBvnRmF3t97mKIP0se7LzOPkgVNjoM"
 CHANNEL_ID = -1001234567890  # Replace with your channel ID
 MOVIE_URL = "https://hdhub4u.football/once-upon-a-time-in-madras-2024-uncut-hindi-webrip-full-movie/"
 
